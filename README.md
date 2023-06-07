@@ -1,0 +1,1 @@
+# sdl_multithreaded_window_resize_bug
