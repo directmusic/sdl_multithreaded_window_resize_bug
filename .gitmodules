@@ -1,0 +1,6 @@
+[submodule "external/SDL"]
+	path = external/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "external/Vulkan-Tools"]
+	path = external/Vulkan-Tools
+	url = https://github.com/KhronosGroup/Vulkan-Tools
